@@ -10,3 +10,10 @@ share 𝑠 per day 𝑑.
 share 𝑠 per day 𝑑.
 3. If before the opening of the day 𝑑 we have in our possession n ≥ 0 shares 𝑠, then during the day 𝑑 no
 we can buy a total of more than 𝑛 + 1 shares 𝑠.
+
+LEGAL MOVEMENTS:
+
+• buy-open: buy at the opening price.
+• sell-open: sold at the opening price.
+• buy-close: buy at the closing price.
+• sell-close: sold at the closing price
