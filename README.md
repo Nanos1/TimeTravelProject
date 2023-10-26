@@ -28,7 +28,7 @@ Features:
 
 • Harnesses a financial dataset to facilitate stock analysis and market simulation.
 • Abides by the temporal regulations to preserve the space-time continuum, including constraints:
-1.The ability to buy/sell up to 10% of a stock's volume in a single day.
-2.The restriction on purchasing stocks, limited to N+1 if N stocks of the same company were held on the prior day.
+1. The ability to buy/sell up to 10% of a stock's volume in a single day.
+2. The restriction on purchasing stocks, limited to N+1 if N stocks of the same company were held on the prior day.
 • Permits specific intraday trading orders, encompassing (buy-open, sell-high), (buy-open, sell-close), (buy-high, sell-close), (sell-open, buy-low), (sell-open, buy-close), and (sell-high, buy-close).
 • Presents a distinctive opportunity to experiment with historical stock market data, enabling the development of personalized investment strategies that may leave a lasting legacy for future generations.
