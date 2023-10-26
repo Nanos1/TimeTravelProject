@@ -1,4 +1,5 @@
 # TimeTravelProject
+Python-based stock market simulation using the "Huge Stock Market Dataset," enabling time-travel to 1960's Wall Street for strategic stock investment while adhering to space-time rules and experimenting with intraday trading.
 Time-travel problem: travel back in time and make as much profit as you can on the New York Stock Exchange! [Dataset](https://www.kaggle.com/datasets/borismarjanovic/price-volume-data-for-all-us-stocks-etfs)
 
 
